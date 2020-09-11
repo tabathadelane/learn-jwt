@@ -1,2 +1,1 @@
-# trversal-spa
-reworking my static capstone into a vue based single page app. I will add a schedule and timeline soon with related Issues to each step. 
+Learning how to impliment Json Web Token on a fresh app. Later I will apply this to my reworking of trversal.
